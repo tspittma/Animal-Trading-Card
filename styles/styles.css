@@ -1,0 +1,41 @@
+/* add your CSS here */
+img {
+	width: 300px;
+	height: 200px;
+	padding: .1px;
+	margin: .2px;	
+	background-color: white;
+	border: .1px;	
+}
+
+.dolphinfont {
+	font-family: times new roman;
+	font color: black;
+	font-style: bold;	
+}
+
+.funfact {
+	font-style: italic;
+}
+
+body {
+	border: 1px solid lightgrey;
+	width: 380px;
+	margin: 10px;
+	box-shadow: 10px 10px 5px lightgrey;
+	padding: .1em .2em .2em .1em;
+}
+
+.dolphinbody {
+	border: 1px solid lightgrey;
+	margin: 10px;
+	padding: .2em .3em .3em .5em;
+	width: 292px;
+    margin-left: 36px;
+    background-color: white;
+}
+
+.intro {
+	padding: .1px;
+	list-style-type:none;
+}
